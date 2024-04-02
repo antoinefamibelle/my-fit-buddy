@@ -1,0 +1,8 @@
+{
+  "name": "MyFitBuddy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "b66f8773"
+}
